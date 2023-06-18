@@ -1,0 +1,11 @@
+venv
+README.md
+.git
+.gitignore
+.venv
+.idea
+Dockerfile
+docker-compose.yml
+checkpoints
+inference_output_files
+lightning_logs
